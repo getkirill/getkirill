@@ -9,3 +9,4 @@
  - C#
  - Java
  - Kotlin
+ - Rust
