@@ -1,2 +1,2 @@
 # getkirill
-hobby programmer - "employed" at @dipix-empire
+hobbyist programmer - "employed" at @dipix-empire
